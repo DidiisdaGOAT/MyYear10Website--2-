@@ -47,8 +47,8 @@ img {
 /* Three column grid with a nice big gap */
 .topic-content{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 6em;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
     /* top margin of 3em and center right/left */
@@ -71,7 +71,6 @@ img {
     /* center align text */
     text-align: center;
 }
-
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
